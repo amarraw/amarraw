@@ -7,7 +7,6 @@
 
 - 🌱 Currently exploring **Celery, React**, and **advanced Django concepts**.  
 - 💬 Ask me about **Python, Django, DRF, Celery, and RESTful APIs**.  
-- 🎥 I'm starting a [YouTube Channel](https://acowale.com) to share knowledge about **Python, Django, and React projects**.  
 - 📫 Reach me at **amar.raw011@gmail.com**.  
 
 ---
@@ -35,7 +34,3 @@
 </p>
 
 ---
-
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarraw&show_icons=true&locale=en&layout=compact" alt="amarraw" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=amarraw&show_icons=true&locale=en" alt="amarraw" /></p>
