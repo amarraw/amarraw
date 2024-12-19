@@ -8,7 +8,6 @@
 - 🌱 Currently exploring **Celery, React**, and **advanced Django concepts**.  
 - 💬 Ask me about **Python, Django, DRF, Celery, and RESTful APIs**.  
 - 🎥 I'm starting a [YouTube Channel](https://acowale.com) to share knowledge about **Python, Django, and React projects**.  
-- 👨‍💻 My portfolio: [acowale.com](https://acowale.com).  
 - 📫 Reach me at **amar.raw011@gmail.com**.  
 
 ---
